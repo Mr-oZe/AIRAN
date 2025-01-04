@@ -1,0 +1,14 @@
+whois
+wafw00f
+sublist3r
+knockpy
+nmap
+fierce
+dnsmap
+dnsenum
+subfinder
+wig
+redis
+xsltproc
+git
+screenfetch
